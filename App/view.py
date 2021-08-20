@@ -77,7 +77,7 @@ while True:
     inputs = input('Seleccione una opción para continuar\n')
     if int(inputs[0]) == 1:
         print("Cargando información de libros....")
-        books = loadBookTags()
+        books = loadBooks()
         print('Total de libros cargados: ' + str(lt.size(books)))
 
         # TODO: Modificación de Est-1 en el Lab 2
