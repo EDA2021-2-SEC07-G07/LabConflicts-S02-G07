@@ -30,3 +30,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Estudiante 1: Samuel Josue Freire Tarazona: 202111460
 Estudiante 2: Jose martinez: 202116677
+
+Nombres: Samuel Josue Freire Tarazona, s.freire@uniandes.edu.co, 202111460 
+Nombres: Jose Martinez, jd.martinezo1@uniandes.edu.co, 202116677
